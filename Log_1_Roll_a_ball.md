@@ -2,6 +2,11 @@
 
 We completed the roll-a-ball guide and learned the basics of creating games in Unity.
 
+The game is a very simple implementation of a ball rolling around and picking up objects.
+Picking up and object will increase a number on the screen, which is the "score" of the game.
+After having picked up all the game objects in the game arena, the game will end and display a victory screen of sorts.
+The ball is able to roll in any direction and can be controlled with both WASD and the arrows.
+
 In the development process there were some minor issues. These issues were mainly related to the choice of the IDE. We have solely used Rider as an IDE for C# up until this point, however working with Unity that proved difficult. 
 Rider kept complaining about the scripts and in the end it was far more feasible to switch to Visual Studio.
 
