@@ -1,7 +1,10 @@
 # Roll-a-ball
 
-I completed the roll-a-ball guide and learned the basics of creating games in Unity.
-It went fine except for scripting where Rider kept complaining till I gave in and downloaded VS instead.
+We completed the roll-a-ball guide and learned the basics of creating games in Unity.
+
+In the development process there were some minor issues. These issues were mainly related to the choice of the IDE. We have solely used Rider as an IDE for C# up until this point, however working with Unity that proved difficult. 
+Rider kept complaining about the scripts and in the end it was for more feasible to switch to Visual Studio.
+
 Here are some screenshots of the game:
 
 ![image](https://github.com/Esben-Andreas-Madsen/GMD1/assets/91538845/5030d6bb-6c5e-42d5-9be3-b34dbbba4092)
