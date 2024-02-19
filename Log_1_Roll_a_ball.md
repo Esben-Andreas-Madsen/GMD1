@@ -3,7 +3,7 @@
 We completed the roll-a-ball guide and learned the basics of creating games in Unity.
 
 The game is a very simple implementation of a ball rolling around and picking up objects.
-Picking up and object will increase a number on the screen, which is the "score" of the game.
+Picking up an object will increase a number on the screen, which is the "score" of the game.
 After having picked up all the game objects in the game arena, the game will end and display a victory screen of sorts.
 The ball is able to roll in any direction and can be controlled with both WASD and the arrows.
 
