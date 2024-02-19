@@ -5,6 +5,8 @@ We completed the roll-a-ball guide and learned the basics of creating games in U
 In the development process there were some minor issues. These issues were mainly related to the choice of the IDE. We have solely used Rider as an IDE for C# up until this point, however working with Unity that proved difficult. 
 Rider kept complaining about the scripts and in the end it was far more feasible to switch to Visual Studio.
 
+Continuing in the issue department, as a new user of unity there were some mishaps here and there, which made Roll-a-ball confusing. In the early stages we accidentally meddle with the camera and the view and had no idea how to reset it. In the Unity Editor this part is not very intuitive for a new user but this was also, in the end, a good learning experience in handling the editor.
+
 Here are some screenshots of the game:
 
 ![image](https://github.com/Esben-Andreas-Madsen/GMD1/assets/91538845/5030d6bb-6c5e-42d5-9be3-b34dbbba4092)
