@@ -22,3 +22,9 @@ Here are some screenshots of the game:
 ![image](https://github.com/Esben-Andreas-Madsen/GMD1/assets/91538845/94bceab7-ced2-4bfd-a2bc-18bef1299392)
 
 ![image](https://github.com/Esben-Andreas-Madsen/GMD1/assets/91538845/2b232f60-6871-423b-915e-68ccf749c222)
+
+The game was deployed on github-pages but shows the following:
+
+![image](https://github.com/Esben-Andreas-Madsen/GMD1-Roll-a-ball/assets/91538845/9cc5d2fa-4503-4f1b-8c6c-65618d3ba632)
+
+Haven't found a solution to this yet. :(
