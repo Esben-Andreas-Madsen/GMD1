@@ -27,4 +27,6 @@ The game was deployed on github-pages but shows the following:
 
 ![image](https://github.com/Esben-Andreas-Madsen/GMD1-Roll-a-ball/assets/91538845/9cc5d2fa-4503-4f1b-8c6c-65618d3ba632)
 
-Haven't found a solution to this yet. :(
+~~Haven't found a solution to this yet. :(~~
+
+Building with Decompression fallback solved it.
